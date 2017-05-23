@@ -1,0 +1,18 @@
+<div class="container category-container">
+  <!-- category section starts -->
+<div class="row">
+  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+    <div class="panel panel-primary text-center" ng-controller="categoryController">
+      <div class="panel-heading">
+        Categories
+      </div>
+      <div class="panel panel-body">
+        <ul *ngIf="categoryList" style="list-style-type: none;" class="text-center">
+          <li *ngFor="let category of categoryList"><a href="#{{category.id}}">{{category.name}}</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <!-- category section end-->
+</div>
+</div>
