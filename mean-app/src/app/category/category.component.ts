@@ -21,7 +21,6 @@ export class CategoryComponent implements OnInit,OnDestroy {
 
     this.req = this.catService.list().subscribe(data=>{
         this.categoryList = data as [any];
-        console.log(this.categoryList);
     });
   }
 

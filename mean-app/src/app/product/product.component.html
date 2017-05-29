@@ -1,3 +1,15 @@
-<p>
-  product works!
-</p>
+<div class="container">
+<div class="row">
+  <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+  <div class="text-center">
+    <h4>Products</h4>
+  </div>
+
+    <ul *ngIf="productList" style="list-style-type: none;" class="text-center">
+        <li *ngFor="let product of productList"><img src="{{product.image}}" class="productImage"><a href="#{{product.id}}">{{product.name}}</a>
+          <br>Price : {{product.rate}}</li>
+      </ul>
+
+</div>
+</div>
+</div>
