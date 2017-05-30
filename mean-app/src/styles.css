@@ -11,5 +11,9 @@
 }
 
 .category-container{
-  margin:10px;
+  margin:20px;
+ display:inline;
+}
+.product-container{
+  display: inline;
 }
