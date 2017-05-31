@@ -34,5 +34,77 @@
     "name": "COPPO BLUE ROSE LAPEL PIN",
     "rate":"299",
     "image":"assets/pin5.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Gold Seahorse Lapel Pin",
+    "rate":"399",
+    "image":"assets/jewellery.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Monteil Golden Lapel Pin",
+    "rate":"499",
+    "image":"assets/pin1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "COPPO GOLD LAPEL PIN",
+    "rate":"599",
+    "image":"assets/pin2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Eagle logo metal lapel pin",
+    "rate":"299",
+    "image":"assets/pin3.jpg"
+  },
+  {
+    "id": 5,
+    "name": "FACE MASK LAPEL PIN",
+    "rate":"399",
+    "image":"assets/pin4.jpg"
+  },
+  {
+    "id": 6,
+    "name": "COPPO BLUE ROSE LAPEL PIN",
+    "rate":"299",
+    "image":"assets/pin5.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Gold Seahorse Lapel Pin",
+    "rate":"399",
+    "image":"assets/jewellery.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Monteil Golden Lapel Pin",
+    "rate":"499",
+    "image":"assets/pin1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "COPPO GOLD LAPEL PIN",
+    "rate":"599",
+    "image":"assets/pin2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Eagle logo metal lapel pin",
+    "rate":"299",
+    "image":"assets/pin3.jpg"
+  },
+  {
+    "id": 5,
+    "name": "FACE MASK LAPEL PIN",
+    "rate":"399",
+    "image":"assets/pin4.jpg"
+  },
+  {
+    "id": 6,
+    "name": "COPPO BLUE ROSE LAPEL PIN",
+    "rate":"299",
+    "image":"assets/pin5.jpg"
   }
 ]
