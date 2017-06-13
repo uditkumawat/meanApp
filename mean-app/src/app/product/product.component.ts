@@ -28,4 +28,8 @@ export class ProductComponent implements OnInit,OnDestroy {
   ngOnDestroy(){
     this.req.unsubscribe();
   }
+
+  showDetails(){
+    console.log("id");
+  }
 }
