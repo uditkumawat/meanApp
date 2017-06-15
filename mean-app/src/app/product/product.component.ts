@@ -15,6 +15,7 @@ export class ProductComponent implements OnInit,OnDestroy {
 
   private req:any;
   productList : [any];
+  productDetails :Object;
 
   constructor(private http:Http,private productService:ProductService) { }
 
@@ -29,7 +30,7 @@ export class ProductComponent implements OnInit,OnDestroy {
     this.req.unsubscribe();
   }
 
-  showDetails(){
-    console.log("id");
+  public showDetails(product:Object){
+    this.productDetails = product;
   }
 }
