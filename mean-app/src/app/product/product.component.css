@@ -1,6 +1,26 @@
 .productImage{
-  width:100px;
-  height:100px;
+  width:150px;
+  height:150px;
   border-radius: 15px;
   padding: 10px;
+}
+.borderOfDiv{
+  border:1px solid grey;
+  border-style:hidden;
+}
+.borderOfDiv:hover{
+  border-color: #66afe9;
+}
+
+.buttonlink{
+  background:none;border:none;
+}
+
+.table {
+  display: table;
+  height:100%;
+}
+.table-cell {
+  display: table-cell;
+  vertical-align: middle;
 }

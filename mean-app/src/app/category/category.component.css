@@ -1,3 +1,10 @@
 .category-container{
   margin:10px;
 }
+.navbar.center .navbar-inner {
+  text-align: center;
+}
+.navbar.center .navbar-inner .nav {
+  float: none;
+  display:inline-block;
+}
