@@ -1,10 +1,14 @@
 .category-container{
   margin:10px;
 }
-.navbar.center .navbar-inner {
-  text-align: center;
+
+.navbar-center-all{
+  transform: translateX(-50%);
+  left: 50%;
+  position: absolute;
 }
-.navbar.center .navbar-inner .nav {
+
+.navbar-center .navbar-inner .nav {
   float: none;
   display:inline-block;
 }
