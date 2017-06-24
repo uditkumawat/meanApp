@@ -12,3 +12,7 @@
   float: none;
   display:inline-block;
 }
+.navbar-inverse{
+  background-color:#454242;
+  font-color:white;
+}

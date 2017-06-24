@@ -1,5 +1,13 @@
+.nav-height{
+  height:80px;
+}
 .hoverDiv:hover{
   color: #FFFFFF;
+}
+.footerColor{
+  background-color: #3c3d41;
+  color: rgba(255,255,255,1.00);
+  font-color:white;
 }
 
 .footer-social { margin-top:5px; height:30px; }
